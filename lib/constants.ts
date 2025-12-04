@@ -336,6 +336,4 @@ export const WATCHLIST_TABLE_HEADER = [
     'P/E Ratio',
     'Alert',
     'Action',
-
 ];
-

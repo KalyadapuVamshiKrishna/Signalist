@@ -2,10 +2,7 @@
 
 # dependencies
 /node_modules
-<<<<<<< HEAD
-=======
 .next
->>>>>>> new-version
 /.pnp
 .pnp.*
 .yarn/*
