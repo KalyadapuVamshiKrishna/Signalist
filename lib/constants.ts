@@ -1,11 +1,7 @@
 export const NAV_ITEMS = [
     { href: '/', label: 'Dashboard' },
     { href: '/search', label: 'Search' },
-<<<<<<< HEAD
-    { href: '/watchlist', label: 'Watchlist' },
-=======
     // { href: '/watchlist', label: 'Watchlist' },
->>>>>>> new-version
 ];
 
 // Sign-up form select options
@@ -340,8 +336,6 @@ export const WATCHLIST_TABLE_HEADER = [
     'P/E Ratio',
     'Alert',
     'Action',
-<<<<<<< HEAD
+
 ];
-=======
-];
->>>>>>> new-version
+

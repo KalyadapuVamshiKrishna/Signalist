@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-import { clsx, type ClassValue } from "clsx"
-import { twMerge } from "tailwind-merge"
-
-export function cn(...inputs: ClassValue[]) {
-  return twMerge(clsx(inputs))
-}
-
-=======
 import { clsx, type ClassValue } from 'clsx';
 import { twMerge } from 'tailwind-merge';
 
@@ -146,4 +137,3 @@ export const getFormattedTodayDate = () => new Date().toLocaleDateString('en-US'
   day: 'numeric',
   timeZone: 'UTC',
 });
->>>>>>> new-version

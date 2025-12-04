@@ -6,11 +6,7 @@
   "tailwind": {
     "config": "",
     "css": "app/globals.css",
-<<<<<<< HEAD
-    "baseColor": "neutral",
-=======
     "baseColor": "slate",
->>>>>>> new-version
     "cssVariables": true,
     "prefix": ""
   },
@@ -21,10 +17,5 @@
     "ui": "@/components/ui",
     "lib": "@/lib",
     "hooks": "@/hooks"
-<<<<<<< HEAD
-  },
-  "registries": {}
-=======
   }
->>>>>>> new-version
 }

@@ -5,11 +5,7 @@ import {
     MARKET_OVERVIEW_WIDGET_CONFIG,
     TOP_STORIES_WIDGET_CONFIG
 } from "@/lib/constants";
-<<<<<<< HEAD
-// import {sendDailyNewsSummary} from "@/lib/inngest/functions";
-=======
 import {sendDailyNewsSummary} from "@/lib/inngest/functions";
->>>>>>> new-version
 
 const Home = () => {
     const scriptUrl = `https://s3.tradingview.com/external-embedding/embed-widget-`;
@@ -55,8 +51,4 @@ const Home = () => {
     )
 }
 
-<<<<<<< HEAD
 export default Home;
-=======
-export default Home;
->>>>>>> new-version
